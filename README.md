@@ -3,7 +3,6 @@ This Power BI dashboard delivers in-depth analysis of key revenue and operationa
 
 📌 Key Features
 Dynamic Filters: Slice data by:
-
 Month
 
 City
